@@ -1,3 +1,7 @@
+NAME: POOJA.S
+
+REG NO: 212223040146
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -24,6 +28,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Result :
+![Screenshot 2024-03-29 204227](https://github.com/Shubhavi17/Correlation_Regression/assets/150005085/9f7d210d-4ed7-49bb-9e2e-20e6fecaa68b)
 
-# Output 
+# Output :
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
